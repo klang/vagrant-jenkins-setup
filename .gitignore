@@ -1,0 +1,6 @@
+puppet/modules
+projects
+*~
+\#*\#
+.vagrant
+*.iso

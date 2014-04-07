@@ -1,0 +1,27 @@
+[submodule "puppet/modules/apache"]
+	path = puppet/modules/apache
+	url = https://github.com/example42/puppet-apache
+[submodule "puppet/modules/git"]
+	path = puppet/modules/git
+	url = https://github.com/example42/puppet-git
+[submodule "puppet/modules/jenkins"]
+	path = puppet/modules/jenkins
+	url = https://github.com/example42/puppet-jenkins
+[submodule "puppet/modules/wget"]
+	path = puppet/modules/wget
+	url = https://github.com/example42/puppet-wget
+[submodule "puppet/modules/maven"]
+	path = puppet/modules/maven
+	url = https://github.com/example42/puppet-maven
+[Submodule "puppet/modules/vim"]
+	path = puppet/modules/vim
+	url = https://github.com/example42/puppet-vim
+[submodule "puppet/modules/puppi"]
+	path = puppet/modules/puppi
+	url = https://github.com/example42/puppi
+[submodule "projects/First"]
+	path = projects/First
+	url = https://github.com/Praqma/First
+[submodule "projects/ui-samples-plugin"]
+	path = projects/ui-samples-plugin
+	url = https://github.com/jenkinsci/ui-samples-plugin
