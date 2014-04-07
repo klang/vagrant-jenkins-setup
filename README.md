@@ -28,7 +28,7 @@ Fix
 
  * include a master/slave setup for Jenkins (as two virtual machines)
  * include basic plug-in installation in jenkins
-     https://wiki.jenkins-ci.org/display/JENKINS/Locale+Plugin
-     https://wiki.jenkins-ci.org/display/JENKINS/Git+Plugin
-     http://wiki.jenkins-ci.org/display/JENKINS/Git+Client+Plugin
+     * https://wiki.jenkins-ci.org/display/JENKINS/Locale+Plugin
+     * https://wiki.jenkins-ci.org/display/JENKINS/Git+Plugin
+     * http://wiki.jenkins-ci.org/display/JENKINS/Git+Client+Plugin
  * provide basebox with [veewee](https://github.com/jedi4ever/veewee/blob/master/doc/vagrant.md)
