@@ -31,6 +31,10 @@ class util {
   package { "make":
     ensure  => present,
   }
+
+  package { 'openjdk-7-jdk':
+    ensure => present,
+  }
 }
 
 include init

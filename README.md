@@ -23,6 +23,11 @@ Fix
     wget https://www.virtualbox.org/download/testcase/VBoxGuestAdditions_4.3.11-93070.iso
     sudo cp VBoxGuestAdditions_4.3.11-93070.iso /Applications/VirtualBox.app/Contents/MacOS/VBoxGuestAdditions.iso
 
+# Configuration
+
+ * Currently, `java-7-openjdk` or `java-7-openjdk` has to be configured manually under [Jenkins->Configuration->JDK](http://10.10.10.10:8080/configure) and specified in the project configuration.
+     * Name=java-6-openjdk JAVA_HOME=/usr/lib/jvm/java-6-openjdk-amd64
+     * Name=java-7-openjdk JAVA_HOME=/usr/lib/jvm/java-7-openjdk-amd64
 
 # todo
 
